@@ -1,4 +1,5 @@
 # pycharm-config
 My Pycharm configurations
 
-Here I'm preparing an installer so I can easily setup my pycharm configurations.
+This is an updated config for Pycharm CE 2023.1
+
